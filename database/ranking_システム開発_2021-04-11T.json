@@ -1,0 +1,447 @@
+[
+  {
+    "likes_count": 533,
+    "title": "開発者が考える提案書テンプレート markdown版",
+    "url": "https://qiita.com/e99h2121/items/d690ea1fb7e9f9eb9ad4"
+  },
+  {
+    "likes_count": 485,
+    "title": "システム設計の流れ・設計書の構成メモ",
+    "url": "https://qiita.com/chocode/items/fd51dd8f561e2a0fbd70"
+  },
+  {
+    "likes_count": 471,
+    "title": "Django(Python)でシステム開発できるようになる記事_入門編",
+    "url": "https://qiita.com/Saku731/items/ed64190a12a4498b9446"
+  },
+  {
+    "likes_count": 360,
+    "title": "こんな時代だからこそ要件定義の重要性を思い出せ！",
+    "url": "https://qiita.com/ryota_i/items/760cf496ec3631f37942"
+  },
+  {
+    "likes_count": 193,
+    "title": "テスト工数を削減できるかもしれないペアワイズ法とPairwiser",
+    "url": "https://qiita.com/y_hokkey/items/0a433ba25a5c5587d4ad"
+  },
+  {
+    "likes_count": 172,
+    "title": "ZOOMと全く同じ機能をwordpressで実装した時の概算見積を真面目に考えてみる",
+    "url": "https://qiita.com/otupy/items/db5b0db64cd15c2c996a"
+  },
+  {
+    "likes_count": 131,
+    "title": "機械学習システムにおける「技術的負債」とその回避策",
+    "url": "https://qiita.com/fujit33/items/f58055667493ae79e2dd"
+  },
+  {
+    "likes_count": 127,
+    "title": "先行リリース…？",
+    "url": "https://qiita.com/MA-fn/items/ebd58b5dea219e880be3"
+  },
+  {
+    "likes_count": 53,
+    "title": "部下のコンテキストスイッチを防ぐための上長としての振るまい",
+    "url": "https://qiita.com/tbpgr/items/03be10bae120c0603c00"
+  },
+  {
+    "likes_count": 50,
+    "title": "コンポーネントに関する6つの原則",
+    "url": "https://qiita.com/NagaokaKenichi/items/65c149ba92580fce5be2"
+  },
+  {
+    "likes_count": 44,
+    "title": "システム開発 手順書",
+    "url": "https://qiita.com/madaran0805/items/7f63847383427a7a7957"
+  },
+  {
+    "likes_count": 35,
+    "title": "SIerが実践する分散開発とバージョンコントロール",
+    "url": "https://qiita.com/sh-ogawa/items/fbc5a0c942029f83bfcf"
+  },
+  {
+    "likes_count": 28,
+    "title": "ソフトウェアテストの7原則について経験と照らし合わせて考えてみる",
+    "url": "https://qiita.com/NagaokaKenichi/items/b5d5d0b141e816991133"
+  },
+  {
+    "likes_count": 21,
+    "title": "プログラミングをよく知らない初心者がシステム開発をしてみて気付いた話",
+    "url": "https://qiita.com/minakenty321/items/da213cac83bce9884a67"
+  },
+  {
+    "likes_count": 20,
+    "title": "設計書をメンテナンスする文化を醸成する",
+    "url": "https://qiita.com/NagaokaKenichi/items/de47477509616308f7d3"
+  },
+  {
+    "likes_count": 18,
+    "title": "システムの可用性についてHAクラスタで出来ること",
+    "url": "https://qiita.com/tentom/items/650c726acec68ab02057"
+  },
+  {
+    "likes_count": 18,
+    "title": "良い提案書を書く方法（システム開発）",
+    "url": "https://qiita.com/barcarunrun/items/f0cfb8cd354dbf1d6493"
+  },
+  {
+    "likes_count": 18,
+    "title": "モンスターがウヨウヨいるIT業界をサバイブするために、まず最低限知っていてほしいこと",
+    "url": "https://qiita.com/barcarunrun/items/1077def26854e8229086"
+  },
+  {
+    "likes_count": 18,
+    "title": "バッチ設計時の基本的な要点",
+    "url": "https://qiita.com/NagaokaKenichi/items/3db26224f21aca3df90a"
+  },
+  {
+    "likes_count": 17,
+    "title": "リトライ処理を設計段階から明文化していこう！",
+    "url": "https://qiita.com/yaju/items/efe79e5e6be3091ba4f9"
+  },
+  {
+    "likes_count": 17,
+    "title": "要件定義へ”ツッコミ”をいれるための観点集",
+    "url": "https://qiita.com/evid/items/d6d8a4dbacf42ca9013c"
+  },
+  {
+    "likes_count": 15,
+    "title": "社内サービスをホワイトハックしたら機密情報が覗けてしまった話",
+    "url": "https://qiita.com/fukuoka_m/items/e3431cc03f723cf7d398"
+  },
+  {
+    "likes_count": 14,
+    "title": "なぜ、システム運用設計は必要なのか",
+    "url": "https://qiita.com/suginorl/items/d5167d480fff8795a47a"
+  },
+  {
+    "likes_count": 13,
+    "title": "業務システムでも効果的なデザイン先行型開発アプローチ",
+    "url": "https://qiita.com/yasuoyasuo/items/1ff65a984ae54bd5d9e8"
+  },
+  {
+    "likes_count": 12,
+    "title": "SE／システムエンジニアとして大切な10のこととは？",
+    "url": "https://qiita.com/fkooo/items/3a311b9b897bd26ed415"
+  },
+  {
+    "likes_count": 11,
+    "title": "LAMP開発の中で学んだ業務に活かせるシステムアーキテクト",
+    "url": "https://qiita.com/kinef/items/a2f95f2e9194046aae67"
+  },
+  {
+    "likes_count": 11,
+    "title": "システム開発(請負)における管理工数の必要性",
+    "url": "https://qiita.com/tshiono9/items/7b19c17a5c66bbc57fd5"
+  },
+  {
+    "likes_count": 8,
+    "title": "レガシーなMailerに対応したメール送信の方法",
+    "url": "https://qiita.com/issueee09/items/b029466ced01f3a8ce33"
+  },
+  {
+    "likes_count": 8,
+    "title": "絶対に失敗しないシステム開発プロジェクトの進め方",
+    "url": "https://qiita.com/ICT_hero/items/125e5366873ec2d341bd"
+  },
+  {
+    "likes_count": 7,
+    "title": "システム開発のコミュニケーションとコンテキストの伝達の重要性",
+    "url": "https://qiita.com/tbpgr/items/de8595fa9bf0e9ff6a08"
+  },
+  {
+    "likes_count": 7,
+    "title": "Dockerコンテナにexecする際にthe input device is not a TTYが出た時",
+    "url": "https://qiita.com/NagaokaKenichi/items/7b66c58fda36b46f5938"
+  },
+  {
+    "likes_count": 7,
+    "title": "シフトレフトテスト (Shift Left Testing) で高品質なシステムを迅速にリリース",
+    "url": "https://qiita.com/NagaokaKenichi/items/70ccaa5ee963ebe8f1e5"
+  },
+  {
+    "likes_count": 7,
+    "title": "社内エンジニアは見た! 技術的負債とDXの実際【DXレポート,レガシーシステム,デジタルトランスフォーム】",
+    "url": "https://qiita.com/Ringa_hyj/items/0f2741ad72e7f5c203a9"
+  },
+  {
+    "likes_count": 7,
+    "title": "新しいシステム開発の地図帳",
+    "url": "https://qiita.com/NMura3/items/e94e4cf788f8263b06ed"
+  },
+  {
+    "likes_count": 6,
+    "title": "Drupalでシステム開発と保守をしてきた所感",
+    "url": "https://qiita.com/Kenji_TAJIMA/items/cce52e6962e11dc6cb84"
+  },
+  {
+    "likes_count": 6,
+    "title": "協力会社のぺーぺーPGが要件定義に参画して～上流工程の考え方～",
+    "url": "https://qiita.com/_MiKe_/items/4c163854f7c462ef571c"
+  },
+  {
+    "likes_count": 6,
+    "title": "システム開発工程モデルとプロマネの基礎",
+    "url": "https://qiita.com/kyawphyonaing/items/b498ce3c1b06410392f9"
+  },
+  {
+    "likes_count": 6,
+    "title": "【1日目】Rust入門者に贈るRust入門者がRustと闘う物語 -Rustとその愉快な仲間（Cargo）の登場-",
+    "url": "https://qiita.com/emckk/items/dbfa0d8c89de6f7423e8"
+  },
+  {
+    "likes_count": 5,
+    "title": "大規模プロジェクトの要件定義をやってみたらまあまあしんどかった話",
+    "url": "https://qiita.com/NagaokaKenichi/items/5a4fb17d56acadbec5b4"
+  },
+  {
+    "likes_count": 5,
+    "title": "【2日目】Rust入門者に贈るRust入門者がRustと闘う物語 -普遍的なプログラミング概念-",
+    "url": "https://qiita.com/emckk/items/68b24290077f47867db1"
+  },
+  {
+    "likes_count": 5,
+    "title": "こんな時代だからこそテストの重要性を思い出せ！",
+    "url": "https://qiita.com/ryota_i/items/4c7072cc5a70987bfbe7"
+  },
+  {
+    "likes_count": 4,
+    "title": "実装力があるとはどういったことか説明する",
+    "url": "https://qiita.com/barcarunrun/items/8723ded8fc676d6a3c7a"
+  },
+  {
+    "likes_count": 4,
+    "title": "【4日目】Rust入門者に贈るRust入門者がRustと闘う物語 -構造体-",
+    "url": "https://qiita.com/emckk/items/90e86a5d56ada71e189e"
+  },
+  {
+    "likes_count": 3,
+    "title": "クライアントともめないためにやるべき4つの事",
+    "url": "https://qiita.com/harukingo/items/d3571b2ba861536f6b4e"
+  },
+  {
+    "likes_count": 3,
+    "title": "システムは2人で作るのが一番なのではないか",
+    "url": "https://qiita.com/barcarunrun/items/2e461ee47e25b44ed483"
+  },
+  {
+    "likes_count": 3,
+    "title": "システム/ソフトウェア開発 安全性解析手法 STAMP/STPA情報まとめ",
+    "url": "https://qiita.com/kannkyo/items/09b7190b56b9734a6e21"
+  },
+  {
+    "likes_count": 3,
+    "title": "要件定義について考える",
+    "url": "https://qiita.com/ymd65536/items/f76bc986022f85c20bb6"
+  },
+  {
+    "likes_count": 2,
+    "title": "システム開発の進め方について",
+    "url": "https://qiita.com/takamichi_tsutsumi/items/2545e92b16d53c72d86b"
+  },
+  {
+    "likes_count": 2,
+    "title": "アジャイルが全て良いわけではない（ウォーターフォールをしないといけないものも多数ある）",
+    "url": "https://qiita.com/mnoda/items/fdb41efb13d64aa35e8b"
+  },
+  {
+    "likes_count": 2,
+    "title": "アプリとかシステムのタイムアウト試験ってどうしてる？",
+    "url": "https://qiita.com/mocklab/items/5aaa92225fe4c93d0898"
+  },
+  {
+    "likes_count": 2,
+    "title": "【5日目】Rust入門者に贈るRust入門者がRustと闘う物語 -Enumとmatchとif let-",
+    "url": "https://qiita.com/emckk/items/4dfca150fac966fedfd4"
+  },
+  {
+    "likes_count": 2,
+    "title": "要件定義～実際の現場作業を振り返って～",
+    "url": "https://qiita.com/fkooo/items/8d54ea439a5ba75c6e8d"
+  },
+  {
+    "likes_count": 2,
+    "title": "「システムを「外注」するときに読む本」を読んだ感想",
+    "url": "https://qiita.com/noco/items/71ecfd272f7ee1e794f3"
+  },
+  {
+    "likes_count": 1,
+    "title": "書籍「構造化分析とシステム仕様」",
+    "url": "https://qiita.com/t-omura/items/28656a412e1db73bcdbc"
+  },
+  {
+    "likes_count": 1,
+    "title": "「素晴らしい」サービスを作るのには（記事途中）",
+    "url": "https://qiita.com/Mtatuto/items/362a422b488dd1c37633"
+  },
+  {
+    "likes_count": 1,
+    "title": "【ブロックチェーン論文まとめ①】ALZA: 効率的なハイブリッド分散型決済システム",
+    "url": "https://qiita.com/Hiro-mi/items/7a27a690137f34a47179"
+  },
+  {
+    "likes_count": 1,
+    "title": "ノンエンジニアにITシステムを説明する方法",
+    "url": "https://qiita.com/barcarunrun/items/7e4b8938c6707a7efa89"
+  },
+  {
+    "likes_count": 1,
+    "title": "CODE COMPLETE",
+    "url": "https://qiita.com/shigural/items/118d98fb0b737b471780"
+  },
+  {
+    "likes_count": 1,
+    "title": "「システムは魔法」？　期待を調整しつつ要求定義を進めるためには",
+    "url": "https://qiita.com/Pluto/items/2fab486425c2a4921d64"
+  },
+  {
+    "likes_count": 1,
+    "title": "新米エンジニアは「事実と解釈を見極めろ」",
+    "url": "https://qiita.com/msht0511/items/1c8b7bdff0ab65f7f6aa"
+  },
+  {
+    "likes_count": 1,
+    "title": "システム開発の工数に調査は含めないのか?",
+    "url": "https://qiita.com/KaoruHeart/items/c9b43b13d6e8bbd6ec32"
+  },
+  {
+    "likes_count": 1,
+    "title": "4システムを並行開発した話",
+    "url": "https://qiita.com/NagaokaKenichi/items/e4cbacd737776c093907"
+  },
+  {
+    "likes_count": 1,
+    "title": "1ヶ月でできる！？仕様書なしから機械学習予測システムを Web サービスにして納品",
+    "url": "https://qiita.com/y_k/items/321adc994e6b0b89f8a5"
+  },
+  {
+    "likes_count": 1,
+    "title": "【バレンタイン特別企画】LINE相性診断作ってみた！",
+    "url": "https://qiita.com/channel-techtok/items/9b6199c6b8a0f4f8837e"
+  },
+  {
+    "likes_count": 1,
+    "title": "【3日目】Rust入門者に贈るRust入門者がRustと闘う物語 -所有権を頑張って理解する-",
+    "url": "https://qiita.com/emckk/items/6913c01d15622240c8d6"
+  },
+  {
+    "likes_count": 1,
+    "title": "より良きシステムのための検討事項",
+    "url": "https://qiita.com/Nao9syu/items/abebe2ed724f64b7ac20"
+  },
+  {
+    "likes_count": 1,
+    "title": "テスト環境をぶっ壊しかけた話",
+    "url": "https://qiita.com/tyuma/items/d47fb6159f8f93014edc"
+  },
+  {
+    "likes_count": 1,
+    "title": "【Java】List／Set／Mapってよく使うけど、何なん？？",
+    "url": "https://qiita.com/kanato4/items/742b215c106605bff6c3"
+  },
+  {
+    "likes_count": 1,
+    "title": "エンジニアのためのコミニティを作ってみた（エンジニア地位向上委員会）",
+    "url": "https://qiita.com/junyablog/items/96fa8eddefc7fd9ffb6b"
+  },
+  {
+    "likes_count": 1,
+    "title": "システム開発手法の種類を調査してみた",
+    "url": "https://qiita.com/adrian-zulnedi/items/5d2c776e241fab83c607"
+  },
+  {
+    "likes_count": 0,
+    "title": "関西PHP座談会のメモ",
+    "url": "https://qiita.com/shosho/items/208bd6ba8b9e13f7ce40"
+  },
+  {
+    "likes_count": 0,
+    "title": "TCPとUDP",
+    "url": "https://qiita.com/tomohiro11027108/items/16bb1963bb64ef9f7c00"
+  },
+  {
+    "likes_count": 0,
+    "title": "Web制作に関するガイドライン集",
+    "url": "https://qiita.com/ysjtks/items/a6ce06c231a6e77c20a8"
+  },
+  {
+    "likes_count": 0,
+    "title": "Webシステム、Web制作の見積もりをするときにヒントとなるような項目",
+    "url": "https://qiita.com/shosho/items/a82ff889f472a72b7fd1"
+  },
+  {
+    "likes_count": 0,
+    "title": "新米エンジニアは「先人が作ったWebサービスを活用して課題を乗り越えろ！」",
+    "url": "https://qiita.com/msht0511/items/22c7caeedac3da2d610f"
+  },
+  {
+    "likes_count": 0,
+    "title": "地方の会社や人が東京のシステム開発会社に依頼するときの課題と対策",
+    "url": "https://qiita.com/tatataNakada/items/9911d1492186da6eac0a"
+  },
+  {
+    "likes_count": 0,
+    "title": "プロジェクト計画でやること色々",
+    "url": "https://qiita.com/NagaokaKenichi/items/7a3247b62862f1bbcdfe"
+  },
+  {
+    "likes_count": 0,
+    "title": "【業務系】システム開発に役立つ書籍4冊",
+    "url": "https://qiita.com/MasayaOkuno/items/83cf1326c7d86f888ab3"
+  },
+  {
+    "likes_count": 0,
+    "title": "大阪府のコロナ追跡システムを考えてみる1",
+    "url": "https://qiita.com/Shinguin2/items/ab4643760f7f1603cf7c"
+  },
+  {
+    "likes_count": 0,
+    "title": "大阪府のコロナ追跡システムを考えてみる2",
+    "url": "https://qiita.com/Shinguin2/items/aa887b9a332efd7fb247"
+  },
+  {
+    "likes_count": 0,
+    "title": "システム開発をする時の客観的思考について",
+    "url": "https://qiita.com/shohei-y/items/0a4fa3fd2b814f54fbe1"
+  },
+  {
+    "likes_count": 0,
+    "title": "これを言うと先輩に怒られるよ3選",
+    "url": "https://qiita.com/barcarunrun/items/9fcf34f1a5268888375f"
+  },
+  {
+    "likes_count": 0,
+    "title": "実務未経験者が業務システム(Java)を実装する前にIT用語を一覧にまとめる",
+    "url": "https://qiita.com/kanato4/items/7dd9d501b2d0f3ccfacb"
+  },
+  {
+    "likes_count": 0,
+    "title": "機能要件、非機能要件",
+    "url": "https://qiita.com/uejima_haruki/items/d7f2538575d10df8f040"
+  },
+  {
+    "likes_count": 0,
+    "title": "ウォーターフォールとアジャイルどっちを選ぶか？",
+    "url": "https://qiita.com/okikusan-public/items/8c17823dba577a60a0b2"
+  },
+  {
+    "likes_count": 0,
+    "title": "プロジェクト開発の流れと知識と成果物を理解する",
+    "url": "https://qiita.com/abeno/items/f6f2592b50f05d33d4b3"
+  },
+  {
+    "likes_count": 0,
+    "title": "基本情報技術者　Chapter13~20",
+    "url": "https://qiita.com/mon65_/items/d312a3ecbaa49a7b856e"
+  },
+  {
+    "likes_count": 0,
+    "title": "システム開発プロジェクトにおけるフォルダ管理のコツ",
+    "url": "https://qiita.com/toyoyo/items/2ee7d01fe654d394f349"
+  },
+  {
+    "likes_count": 0,
+    "title": "Brain-Body Model(Life hack)",
+    "url": "https://qiita.com/revogue/items/88936f2a124edec6b6c2"
+  }
+]
