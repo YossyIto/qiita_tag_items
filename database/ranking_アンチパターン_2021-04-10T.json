@@ -1,0 +1,657 @@
+[
+  {
+    "likes_count": 1819,
+    "title": "優秀な技術者を追い出してしまう方法",
+    "url": "https://qiita.com/nonbiri15/items/961543c6460432289a02"
+  },
+  {
+    "likes_count": 1557,
+    "title": "「進捗どうですか？」より2015倍捗る「困ってますか？」",
+    "url": "https://qiita.com/tatesuke/items/fd5483be1b72727d3d34"
+  },
+  {
+    "likes_count": 1140,
+    "title": "ドキュメント作成時のあるあるアンチパターン20",
+    "url": "https://qiita.com/tamikura@github/items/625b94b6046113403728"
+  },
+  {
+    "likes_count": 981,
+    "title": "あっと驚かせるJavaプログラミング(をやめよう）",
+    "url": "https://qiita.com/tatesuke/items/36924274f043f37a391f"
+  },
+  {
+    "likes_count": 966,
+    "title": "オワコン大手SIerに学ぶアンチパターン",
+    "url": "https://qiita.com/okaponta_/items/e7a60bc897965943e0a0"
+  },
+  {
+    "likes_count": 823,
+    "title": "分岐アンチパターン",
+    "url": "https://qiita.com/pakkun/items/9bef9132f168ba0befd7"
+  },
+  {
+    "likes_count": 454,
+    "title": "可視化や統計でデータに『恣意的なストーリーを語らせる』16の闇の魔術【bad charts】",
+    "url": "https://qiita.com/Ringa_hyj/items/a938ec99d0fde052837e"
+  },
+  {
+    "likes_count": 407,
+    "title": "P\"r\"aying Manager ～節子、それマネジメントちゃう。オカルトや～",
+    "url": "https://qiita.com/gakuri/items/1d2e91afb662dcc201f8"
+  },
+  {
+    "likes_count": 403,
+    "title": "Reactのべからず集",
+    "url": "https://qiita.com/jkr_2255/items/041f238a940f923e4dfc"
+  },
+  {
+    "likes_count": 261,
+    "title": "有害な頑張りというアンチパターン - 不幸なリモートワーク、我慢のリモートワーク",
+    "url": "https://qiita.com/e99h2121/items/cf6532f7fdce0fc38975"
+  },
+  {
+    "likes_count": 249,
+    "title": "君の継承の使い方は間違っている",
+    "url": "https://qiita.com/tonluqclml/items/c0110098722763caa556"
+  },
+  {
+    "likes_count": 249,
+    "title": "とあるAIプロジェクトの失敗とそこから得た鬼十則",
+    "url": "https://qiita.com/bezilla/items/2744e61d49a5c7099948"
+  },
+  {
+    "likes_count": 182,
+    "title": "【障害報告】ログイン直後APIを甘く見てたらアプリ利用不能な障害が起きた話",
+    "url": "https://qiita.com/kashitaka1118/items/d21aaf6db026529cb594"
+  },
+  {
+    "likes_count": 166,
+    "title": "日本の組み込み業界に未来はないかも、と思わせる上司の発言集",
+    "url": "https://qiita.com/chibo/items/5e15a83ff8a36481f0a5"
+  },
+  {
+    "likes_count": 126,
+    "title": "「Machine Learning Project Anti-Patterns」を読んだ感想",
+    "url": "https://qiita.com/conta_/items/6989ac06d276bdd49b52"
+  },
+  {
+    "likes_count": 109,
+    "title": "N高Slackから学ぶ質問アンチパターン",
+    "url": "https://qiita.com/yuzuy/items/4a70f0519fa1042d307f"
+  },
+  {
+    "likes_count": 107,
+    "title": "どうやら本当のデスマーチを教える時が来たようですね",
+    "url": "https://qiita.com/tanakahisateru/items/812fd9128259b6c5dfd9"
+  },
+  {
+    "likes_count": 107,
+    "title": "転職のために開発を始めたい方へのアンチパターン",
+    "url": "https://qiita.com/tomotakasg/items/15e845ceb90ed71efc1f"
+  },
+  {
+    "likes_count": 98,
+    "title": "【Java】どうにもコーディングし直したくなってしまう書き方まとめ",
+    "url": "https://qiita.com/chooyan_eng/items/7a2555abedc607e777f0"
+  },
+  {
+    "likes_count": 88,
+    "title": "これまでに世に送り出してしまって後から猛省したPythonのパターン",
+    "url": "https://qiita.com/m_nabeta/items/0a8efc30d8d9a5808b91"
+  },
+  {
+    "likes_count": 88,
+    "title": "地獄からの使者、その名はTypeScript ～ 固かった型の形 ～ 2",
+    "url": "https://qiita.com/SoraKumo/items/67a967bff996c3efb091"
+  },
+  {
+    "likes_count": 86,
+    "title": "（アンチパターン）Railsの本番環境でローカル環境と同じエラー画面を表示させる",
+    "url": "https://qiita.com/jnchito/items/9d4ca74c678eaf799b3a"
+  },
+  {
+    "likes_count": 76,
+    "title": "真似をする前にバッドプラクティスかどうかを調べてみよう",
+    "url": "https://qiita.com/n_slender/items/3be36b3dc7451e230e95"
+  },
+  {
+    "likes_count": 59,
+    "title": "マンガでわかるアンチパターン序文",
+    "url": "https://qiita.com/tanakahisateru/items/551714d6970eb7c6b276"
+  },
+  {
+    "likes_count": 58,
+    "title": "「優秀な技術者を追い出してしまう方法」再考",
+    "url": "https://qiita.com/nonbiri15/items/e46428273503c9858c92"
+  },
+  {
+    "likes_count": 50,
+    "title": "マンガでわかる文書化軽視アンチパターン",
+    "url": "https://qiita.com/tanakahisateru/items/5dcc01f63df4c2a33dc1"
+  },
+  {
+    "likes_count": 48,
+    "title": "自分用メモ: ウェブ設計チェックリスト",
+    "url": "https://qiita.com/ucan-lab/items/85ddbd8948002e3e28b1"
+  },
+  {
+    "likes_count": 42,
+    "title": "Effective DevOps devopsに対する誤解とアンチパターン",
+    "url": "https://qiita.com/yutachaos/items/a608dfe0a84c914d273d"
+  },
+  {
+    "likes_count": 41,
+    "title": "マンガでわかる機能的分解アンチパターン",
+    "url": "https://qiita.com/tanakahisateru/items/af14eab2b214382bdf33"
+  },
+  {
+    "likes_count": 39,
+    "title": "マンガでわかるスパゲティコードアンチパターン",
+    "url": "https://qiita.com/tanakahisateru/items/30f7a9ddf01f46fa7c08"
+  },
+  {
+    "likes_count": 38,
+    "title": "config/environments/staging.rb はアンチパターン！",
+    "url": "https://qiita.com/tonluqclml/items/196280783bbefbd9ac76"
+  },
+  {
+    "likes_count": 35,
+    "title": "こんなコードは嫌だ！現場で実際に見たアンチパターン集",
+    "url": "https://qiita.com/dhirabayashi/items/413edd4caf4f89730d7a"
+  },
+  {
+    "likes_count": 32,
+    "title": "優秀な技術者を追い出してしまった事例2",
+    "url": "https://qiita.com/nonbiri15/items/807da07e1e04149b10ed"
+  },
+  {
+    "likes_count": 32,
+    "title": "マンガでわかる絶え間なき陳腐化ミニアンチパターン",
+    "url": "https://qiita.com/tanakahisateru/items/1396cb33823f9c21df7d"
+  },
+  {
+    "likes_count": 31,
+    "title": "[Javaの小枝] try ～ finally と return のもう一つの闇",
+    "url": "https://qiita.com/KIchiro/items/667fbfb63d2c94902e95"
+  },
+  {
+    "likes_count": 31,
+    "title": "マンガでわかる肥満児(ブロブ)アンチパターン",
+    "url": "https://qiita.com/tanakahisateru/items/4069dd4a33853c9cb14f"
+  },
+  {
+    "likes_count": 31,
+    "title": "マンガでわかる溶岩流アンチパターン",
+    "url": "https://qiita.com/tanakahisateru/items/2a191a6dafaab563f033"
+  },
+  {
+    "likes_count": 27,
+    "title": "Sass/SCSSの@extendは使いすぎるとカオスだった",
+    "url": "https://qiita.com/y_hokkey/items/a746219dd688e18ac795"
+  },
+  {
+    "likes_count": 27,
+    "title": "マンガでわかる曖昧な視点ミニアンチパターン",
+    "url": "https://qiita.com/tanakahisateru/items/b4fee2b22ef2cd071c69"
+  },
+  {
+    "likes_count": 25,
+    "title": "マンガでわかる梯子外しミニアンチパターン",
+    "url": "https://qiita.com/tanakahisateru/items/dc014719333c211ef5b1"
+  },
+  {
+    "likes_count": 24,
+    "title": "マンガでわかる暗室栽培ミニアンチパターン",
+    "url": "https://qiita.com/tanakahisateru/items/cfb8fa6716a9ab3ab15d"
+  },
+  {
+    "likes_count": 23,
+    "title": "マンガでわかる切り貼りプログラミングアンチパターン",
+    "url": "https://qiita.com/tanakahisateru/items/cf2d8f0972a794b74d99"
+  },
+  {
+    "likes_count": 22,
+    "title": "マンガでわかるお邪魔妖怪アンチパターン",
+    "url": "https://qiita.com/tanakahisateru/items/ae922b63d88531f7dc27"
+  },
+  {
+    "likes_count": 22,
+    "title": "マンガでわかる地雷原ミニアンチパターン",
+    "url": "https://qiita.com/tanakahisateru/items/c22c125ba088be0a232a"
+  },
+  {
+    "likes_count": 22,
+    "title": "マンガでわかる砂上の楼閣(ベンダーロックイン)アンチパターン",
+    "url": "https://qiita.com/tanakahisateru/items/3855ab2b2516ceb5ff8a"
+  },
+  {
+    "likes_count": 21,
+    "title": "Javascript でtry-catchは使ってはダメ",
+    "url": "https://qiita.com/Azumaxoid/items/27d5cbc48352d9108ae8"
+  },
+  {
+    "likes_count": 21,
+    "title": "マンガでわかる打ち出の小槌アンチパターン",
+    "url": "https://qiita.com/tanakahisateru/items/b2215aec56eb9b856b49"
+  },
+  {
+    "likes_count": 21,
+    "title": "マンガでわかる羊頭狗肉(ウルフチケット)ミニアンチパターン",
+    "url": "https://qiita.com/tanakahisateru/items/514d60a0bf86c5694697"
+  },
+  {
+    "likes_count": 20,
+    "title": "【Android】ライフサイクル（Lifecycle）アンチパターン 〜2020年版〜 その1",
+    "url": "https://qiita.com/HanaleiMoon/items/da804b1eb37eea89c53c"
+  },
+  {
+    "likes_count": 19,
+    "title": "[Javaの小枝] さほど例外的でもない例外をつかう",
+    "url": "https://qiita.com/KIchiro/items/bb3f32a7a1e888291ef0"
+  },
+  {
+    "likes_count": 19,
+    "title": "マンガでわかる平直混在ミニアンチパターン",
+    "url": "https://qiita.com/tanakahisateru/items/510949ab5e8729969fc0"
+  },
+  {
+    "likes_count": 19,
+    "title": "マンガでわかる総花主義ミニアンチパターン",
+    "url": "https://qiita.com/tanakahisateru/items/755084e9e61ca72dcf23"
+  },
+  {
+    "likes_count": 18,
+    "title": "マンガでわかる入力クラッジミニアンチパターン",
+    "url": "https://qiita.com/tanakahisateru/items/64e43e61fce0a1fbde84"
+  },
+  {
+    "likes_count": 18,
+    "title": "マンガでわかるおんぼろ煙突化ミニアンチパターン",
+    "url": "https://qiita.com/tanakahisateru/items/a6b60de98acdddb2229a"
+  },
+  {
+    "likes_count": 17,
+    "title": "勉強会アンチパターンへの対処例（随時更新）",
+    "url": "https://qiita.com/nh321/items/bb87788038e430251c7f"
+  },
+  {
+    "likes_count": 17,
+    "title": "マンガでわかる全社的おんぼろ煙突化アンチパターン",
+    "url": "https://qiita.com/tanakahisateru/items/86f55fde4066db1279e3"
+  },
+  {
+    "likes_count": 16,
+    "title": "CSSの属性セレクタでスマートぶってはイケナイ話",
+    "url": "https://qiita.com/yd_niku/items/5f77374e301ae2ae3542"
+  },
+  {
+    "likes_count": 16,
+    "title": "チケットの書き方アンチパターン",
+    "url": "https://qiita.com/1000k/items/8c5b8a5d712992f4402a"
+  },
+  {
+    "likes_count": 16,
+    "title": "自社導入の経験からSlack導入のアンチパターン",
+    "url": "https://qiita.com/comefigo/items/d9c1c4051b55b99c9509"
+  },
+  {
+    "likes_count": 16,
+    "title": "マンガでわかる蛇足(ボートアンカー)ミニアンチパターン",
+    "url": "https://qiita.com/tanakahisateru/items/b0a6193615af08f19743"
+  },
+  {
+    "likes_count": 16,
+    "title": "マンガでわかるシステムのおんぼろ煙突化アンチパターン",
+    "url": "https://qiita.com/tanakahisateru/items/6c6b23246a8ed9f1797d"
+  },
+  {
+    "likes_count": 16,
+    "title": "検証無視は蜜の味？多くのプログラマーが1度は手を染めたことがあるかもしれない(？)闇魔術",
+    "url": "https://qiita.com/thrzn41/items/48f7d1bb83e0f1268005"
+  },
+  {
+    "likes_count": 15,
+    "title": "「失敗の本質」を読んだ",
+    "url": "https://qiita.com/ymstshinichiro/items/cbeaa78e57557421f5c8"
+  },
+  {
+    "likes_count": 15,
+    "title": "社内読書会としてSQLアンチパターンを選んだお話",
+    "url": "https://qiita.com/khrd/items/ce96d97ebb0df2df4a27"
+  },
+  {
+    "likes_count": 14,
+    "title": "【Rubyアンチパターン】ensure節でreturnしてはならない",
+    "url": "https://qiita.com/shinoharat/items/4d389913704a79e835fc"
+  },
+  {
+    "likes_count": 14,
+    "title": "優秀な技術者を追い出してしまった事例3 - 技術を買えばいいは本当か -",
+    "url": "https://qiita.com/nonbiri15/items/f96da1b219a627202c3f"
+  },
+  {
+    "likes_count": 14,
+    "title": "私が遭遇した文字コードにまつわる7つの迷信",
+    "url": "https://qiita.com/tonluqclml/items/d4f8274e0292df393b04"
+  },
+  {
+    "likes_count": 13,
+    "title": "ソフトウェア開発 アンチパターンのまとめ",
+    "url": "https://qiita.com/y_ujitoko/items/db5f05d9d8bab493f181"
+  },
+  {
+    "likes_count": 13,
+    "title": "仕事で見かけた見かけたくなかったPHPのコード達",
+    "url": "https://qiita.com/dala00/items/c97e1bae6dc9f1a7de41"
+  },
+  {
+    "likes_count": 13,
+    "title": "仮説の上に仮説を重ねてはならない　- 画像認識を例に -",
+    "url": "https://qiita.com/nonbiri15/items/588def44503c02532267"
+  },
+  {
+    "likes_count": 13,
+    "title": "優秀な技術者を追い出してしまった事例",
+    "url": "https://qiita.com/nonbiri15/items/687893673d011501d1c0"
+  },
+  {
+    "likes_count": 13,
+    "title": "時刻には「必ず」タイムゾーンをつけて扱え！絶対だぞ！？",
+    "url": "https://qiita.com/tonluqclml/items/3affc5328d11b60583a9"
+  },
+  {
+    "likes_count": 12,
+    "title": "過剰なリファクタリングライン コピペ(共通化・抽象化)編",
+    "url": "https://qiita.com/khsk/items/04ed87700fe7ff51838a"
+  },
+  {
+    "likes_count": 11,
+    "title": "時間という開発資源を失ってしまう方法",
+    "url": "https://qiita.com/nonbiri15/items/d73ab06ed57898053861"
+  },
+  {
+    "likes_count": 11,
+    "title": "はじめてのキーボード設計におけるアンチパターン",
+    "url": "https://qiita.com/natten/items/da3758f50962dc1a3e93"
+  },
+  {
+    "likes_count": 10,
+    "title": "Railsアンチパターン：IDを引数にする",
+    "url": "https://qiita.com/tonluqclml/items/a001cf3e187b9b74ff70"
+  },
+  {
+    "likes_count": 9,
+    "title": "C/C++の__DATE__と__TIME__マクロ定数を使う事の是非",
+    "url": "https://qiita.com/carnage/items/2f3cd91c8ffb8e8c9c4c"
+  },
+  {
+    "likes_count": 9,
+    "title": "【極論】クラス名ではいかなる接尾語も禁止！！",
+    "url": "https://qiita.com/tonluqclml/items/ea786a0e31afaed921e0"
+  },
+  {
+    "likes_count": 8,
+    "title": "アンチパターンコード 「ウォーターフォール型関数呼び出し(仮)」",
+    "url": "https://qiita.com/tag1216/items/47816eedc17ae6f92ab7"
+  },
+  {
+    "likes_count": 8,
+    "title": "技術の評価に失敗するのはなぜか。 -生きている技術を適正に評価するために-",
+    "url": "https://qiita.com/nonbiri15/items/db98e2e6cd81be892298"
+  },
+  {
+    "likes_count": 8,
+    "title": "GASでQiita投稿記事のバックアップを一括で取ろうとしてしくじった話 ~ 並列処理",
+    "url": "https://qiita.com/khsk/items/98d0926367f6f21227e8"
+  },
+  {
+    "likes_count": 8,
+    "title": "AWS Lambda - Test のアンチパターン",
+    "url": "https://qiita.com/billthelizard/items/4f517085bc2edadb8609"
+  },
+  {
+    "likes_count": 8,
+    "title": "Fiori UXデザインのアンチパターン",
+    "url": "https://qiita.com/asai_desita/items/7ea8e30b67b9d785440d"
+  },
+  {
+    "likes_count": 7,
+    "title": "Oracleでカンマ区切りの文字列カラム(Jaywalking)に遭遇したときの対処法",
+    "url": "https://qiita.com/tlokweng/items/183ca87c32ee0e3caa09"
+  },
+  {
+    "likes_count": 7,
+    "title": "ソフトウェアの販売に営業という障壁を導入するのはやめよう",
+    "url": "https://qiita.com/nonbiri15/items/2b59255bbdc285ca1e80"
+  },
+  {
+    "likes_count": 7,
+    "title": "心理的安全性のアンチパターン",
+    "url": "https://qiita.com/momotar47279337/items/3305c4db8c32b638f197"
+  },
+  {
+    "likes_count": 6,
+    "title": "1on1での心理的安全性のアンチパターン",
+    "url": "https://qiita.com/momotar47279337/items/24317a6c98867da3557d"
+  },
+  {
+    "likes_count": 6,
+    "title": "Railsのscopeのアンチパターンとその解消法",
+    "url": "https://qiita.com/Seiga/items/e71e9497a395fe61102f"
+  },
+  {
+    "likes_count": 5,
+    "title": "ALLボタン考 どのような動きをするべきか 【全選択/すべてを選択】",
+    "url": "https://qiita.com/khsk/items/11f49d42823648b5001d"
+  },
+  {
+    "likes_count": 5,
+    "title": "お役所化したGitHub【GitHub Repository設定アンチパターン】",
+    "url": "https://qiita.com/ngmt83/items/792039c5f9cd07eaa941"
+  },
+  {
+    "likes_count": 4,
+    "title": "SQLアンチパターンを読んだ私的まとめ(第I部)",
+    "url": "https://qiita.com/kannan_xiao4/items/52ea2d19e9b158363712"
+  },
+  {
+    "likes_count": 4,
+    "title": "みんな教えて！！スクラムアンチパターン / 聴講メモ",
+    "url": "https://qiita.com/leftouterjoin/items/02f28106d3d6d6010d78"
+  },
+  {
+    "likes_count": 4,
+    "title": "環境（本番、テスト、開発、 etc.）を判別して分岐するような実装は避ける",
+    "url": "https://qiita.com/m_norii/items/cf9f2f444770ee79b997"
+  },
+  {
+    "likes_count": 4,
+    "title": "【Android】ライフサイクル（Lifecycle）アンチパターン 〜2020年版〜 その2",
+    "url": "https://qiita.com/HanaleiMoon/items/4735f977b9ef1be8bde2"
+  },
+  {
+    "likes_count": 4,
+    "title": "アジャイルだからドキュメントを残さないで良いなんて誰が言った？",
+    "url": "https://qiita.com/e99h2121/items/d668cd00ff308a233300"
+  },
+  {
+    "likes_count": 3,
+    "title": "アーキテクチャ アンチパターンのまとめ",
+    "url": "https://qiita.com/y_ujitoko/items/c381039189656387b8fe"
+  },
+  {
+    "likes_count": 3,
+    "title": "Slerが製品（パッケージ、Webサービス）開発した結果",
+    "url": "https://qiita.com/comefigo/items/1644b5885c0ecd14af20"
+  },
+  {
+    "likes_count": 3,
+    "title": "早すぎた技術がものになるタイミングを見失うな",
+    "url": "https://qiita.com/nonbiri15/items/0977c1bb5d75c6eac020"
+  },
+  {
+    "likes_count": 3,
+    "title": "Rails ActionControllerのフィルタ機能は継承元のメソッドにも影響を与えるからこんな実装はするな",
+    "url": "https://qiita.com/ayies128/items/cbd408c509389b66cc7e"
+  },
+  {
+    "likes_count": 3,
+    "title": "Linuxするべからず集",
+    "url": "https://qiita.com/mako24/items/a910bfb869dbcbfc1ca5"
+  },
+  {
+    "likes_count": 3,
+    "title": "kinesisを利用した際のアンチパターン",
+    "url": "https://qiita.com/kuwakuwakuwa/items/7c91cafc9dee18b3c424"
+  },
+  {
+    "likes_count": 3,
+    "title": "DialogFragmentの利用方法",
+    "url": "https://qiita.com/derakudo/items/15b05250d734f6a1b9d3"
+  },
+  {
+    "likes_count": 3,
+    "title": "プロジェクトマネジメント　アンチパターン3選",
+    "url": "https://qiita.com/ketman55/items/b11ed3e8dc7b39274fa1"
+  },
+  {
+    "likes_count": 3,
+    "title": "【SQL アンチパターン3選】",
+    "url": "https://qiita.com/Ueken3pei/items/f7f9f94b73a065d0cfb5"
+  },
+  {
+    "likes_count": 3,
+    "title": "開発で庵野秀明を目指してはいけない",
+    "url": "https://qiita.com/kadogogick/items/5ec9443076d295196eaf"
+  },
+  {
+    "likes_count": 2,
+    "title": "アンチパターンとマジックナンバー",
+    "url": "https://qiita.com/Sekky0905/items/9aafe3dbba8edf5fd4b6"
+  },
+  {
+    "likes_count": 2,
+    "title": "プロジェクトマネジメント アンチパターンのまとめ",
+    "url": "https://qiita.com/y_ujitoko/items/7a67274908905ccfbc47"
+  },
+  {
+    "likes_count": 2,
+    "title": "プロダクトバックログアンチパターン （雑翻訳） にゃ",
+    "url": "https://qiita.com/YooWaan/items/240305b60c8cf823fd39"
+  },
+  {
+    "likes_count": 2,
+    "title": "変数や配列の縦位置を揃えてはいけない！！（ほとんどの場合は）",
+    "url": "https://qiita.com/tonluqclml/items/f529618be8e0c8b04cae"
+  },
+  {
+    "likes_count": 2,
+    "title": "技術は陳腐化しないうちに売りきろう",
+    "url": "https://qiita.com/nonbiri15/items/8e692c57030f496ec3ef"
+  },
+  {
+    "likes_count": 2,
+    "title": "SQLアンチパターン勉強会　第八回：メタデータトリブル",
+    "url": "https://qiita.com/_kyam/items/ead506faa54f090f715c"
+  },
+  {
+    "likes_count": 2,
+    "title": "SQLアンチパターン勉強会　第九回：ラウンディングエラー（丸め誤差）",
+    "url": "https://qiita.com/BigA-aka-KATO/items/6e4dd30d3fba5a25774d"
+  },
+  {
+    "likes_count": 2,
+    "title": "SQLアンチパターンを読んで",
+    "url": "https://qiita.com/rakuruda/items/9288c23dde6d92bdd7cd"
+  },
+  {
+    "likes_count": 2,
+    "title": "本当にあった怖いコードから学ぶアンチパターンその1",
+    "url": "https://qiita.com/takahashi_kazuki/items/58abd0d948d31d142cf8"
+  },
+  {
+    "likes_count": 2,
+    "title": "`return \"エラーメッセージ\"` はやめてくれ",
+    "url": "https://qiita.com/tonluqclml/items/ece97deb7f0b0f85775d"
+  },
+  {
+    "likes_count": 2,
+    "title": "アドバイス・アンチパターン",
+    "url": "https://qiita.com/omokawa_yasu/items/7d88d25456c34f35602c"
+  },
+  {
+    "likes_count": 2,
+    "title": "DBエンジニア必見 => 名著「失敗から学ぶRDBの正しい歩き方」のまとめ",
+    "url": "https://qiita.com/Marusoccer/items/836bdc499623e9c71bc9"
+  },
+  {
+    "likes_count": 2,
+    "title": "サービスイン日が決定している案件に対するスクラムマスターのアプローチ",
+    "url": "https://qiita.com/StrongTea/items/a2a8a40bfbb8ecfe829b"
+  },
+  {
+    "likes_count": 1,
+    "title": "MongoDB Resplica Set利用時のアンチパターン",
+    "url": "https://qiita.com/kiyotaman/items/b49adc337c8ea4cb5d88"
+  },
+  {
+    "likes_count": 1,
+    "title": "SQLアンチパターン まとめ",
+    "url": "https://qiita.com/Poru/items/107d9b89c6c7655f6aab"
+  },
+  {
+    "likes_count": 1,
+    "title": "CakePHP3のアンチパターン",
+    "url": "https://qiita.com/kanryu/items/799aaf8ef6539452a283"
+  },
+  {
+    "likes_count": 1,
+    "title": "SQLアンチパターン勉強会　第十回：サーティーワンフレーバー",
+    "url": "https://qiita.com/aconit96/items/e3e92a69e168009ff64d"
+  },
+  {
+    "likes_count": 1,
+    "title": "「経験が豊富であれば判断を間違えない」という幻想",
+    "url": "https://qiita.com/nonbiri15/items/759d2699a7855514a306"
+  },
+  {
+    "likes_count": 1,
+    "title": "Rails/アンチパターン:  一見すると存在しないアクション",
+    "url": "https://qiita.com/k-shimoji/items/60124ea01732beb0f5e4"
+  },
+  {
+    "likes_count": 0,
+    "title": "Luigiにおけるアンチパターン",
+    "url": "https://qiita.com/toriumi01/items/d2b419032a9c19b540b3"
+  },
+  {
+    "likes_count": 0,
+    "title": "MySQLでマルチバイト文字を先頭からn『バイト』切り出すためのそびえ立つアレ",
+    "url": "https://qiita.com/carbonss/items/b8e7b50122f7d44cbf9a"
+  },
+  {
+    "likes_count": 0,
+    "title": "SQLアンチパターン 第1章の要点整理",
+    "url": "https://qiita.com/ShoheiObata/items/aacea1cc648a524c4bed"
+  },
+  {
+    "likes_count": 0,
+    "title": "深層学習の説明性って！！（生涯初、日付ガチ間違い「Qiita夏祭り2020_パソナテック」に出したかった。。。）",
+    "url": "https://qiita.com/torinokaijyu/items/30582b708ae4543d69ed"
+  },
+  {
+    "likes_count": 0,
+    "title": "HTML＆CSS（SCSS）のアンチパターンとかよくある話",
+    "url": "https://qiita.com/HoRNeT2641/items/0bb187738df15e2c37b3"
+  },
+  {
+    "likes_count": 0,
+    "title": "【Node.js　同期と非同期とアンチパターン】",
+    "url": "https://qiita.com/Ueken3pei/items/356e9dbba68377336eab"
+  },
+  {
+    "likes_count": 0,
+    "title": "順番通りにnewしないと落ちる謎コード",
+    "url": "https://qiita.com/yamamoto_hiroya/items/14cdeac9e46b2ec64d47"
+  }
+]
