@@ -1,0 +1,787 @@
+[
+  {
+    "likes_count": 2161,
+    "title": "新人達を1ヶ月でガチvimmerにした方法",
+    "url": "https://qiita.com/nyantera/items/4bf29ca6f11bc797a9cb"
+  },
+  {
+    "likes_count": 1953,
+    "title": "新人プログラマをレビューで殺さない方法",
+    "url": "https://qiita.com/hiraike32/items/32840b11536fa1b78621"
+  },
+  {
+    "likes_count": 1584,
+    "title": "ドキュメント作成スキル向上を目指す人向けおすすめ記事まとめ",
+    "url": "https://qiita.com/yasuoyasuo/items/1eb7298f91a44dce7abc"
+  },
+  {
+    "likes_count": 1434,
+    "title": "私たちはどうして公式ドキュメントが読めないのか？",
+    "url": "https://qiita.com/hiraike32/items/f0a211cceb0ecc516b6c"
+  },
+  {
+    "likes_count": 1228,
+    "title": "javaプログラマー向け学習のための本（新人から５年めくらいまで）を考えてみた",
+    "url": "https://qiita.com/bonybeat/items/a7ed6cc96d256570ac74"
+  },
+  {
+    "likes_count": 1163,
+    "title": "20代エンジニアの成長を阻む7つのパターン（まとめ記事）",
+    "url": "https://qiita.com/Akira-Isegawa/items/45eaceb6c4c4cb7ef70d"
+  },
+  {
+    "likes_count": 786,
+    "title": "新人エンジニアに1年間で身につけて欲しい能力",
+    "url": "https://qiita.com/Megane-kazuma/items/8724b4da563516733c1b"
+  },
+  {
+    "likes_count": 705,
+    "title": "「何がわからないのかわからない」は何がわからないのか",
+    "url": "https://qiita.com/K_Noko_224/items/745ecc0b604fd71177df"
+  },
+  {
+    "likes_count": 524,
+    "title": "ゆめみのiOSエンジニア研修を公開します！",
+    "url": "https://qiita.com/watanave/items/1cefa5aae18f5141c426"
+  },
+  {
+    "likes_count": 490,
+    "title": "【Webエンジニアど素人】が【3〜4年生】くらいになったら読むといい本を目的別にまとめた",
+    "url": "https://qiita.com/JunyaShibato/items/59743191e4883bc1c517"
+  },
+  {
+    "likes_count": 421,
+    "title": "新人研修で質問スタミナ制を導入してみた",
+    "url": "https://qiita.com/takkii1010/items/b491eee6b835a3b4a99d"
+  },
+  {
+    "likes_count": 387,
+    "title": "ムダな資格集めとはもうサヨナラ　「自分の教育マップ」の作り方",
+    "url": "https://qiita.com/Akira-Isegawa/items/d7d103900272b3818ea8"
+  },
+  {
+    "likes_count": 356,
+    "title": "エンジニア組織がない会社でエンジニア組織を立ち上げるためにやった3つのこと",
+    "url": "https://qiita.com/takish/items/a58c1517c6ac5887ba87"
+  },
+  {
+    "likes_count": 350,
+    "title": "プロジェクトマネジャー目線での安心できる若手エンジニアの言動",
+    "url": "https://qiita.com/hirotaka-awata/items/7ed2b190f1450a916dbd"
+  },
+  {
+    "likes_count": 333,
+    "title": "未経験者にプログラミングを教えるとき",
+    "url": "https://qiita.com/masatsugumatsus/items/ac7d94345bc21b4f8100"
+  },
+  {
+    "likes_count": 331,
+    "title": "社内のリモートイベントを盛り上げるツールを作ったら予想以上に好影響があった話",
+    "url": "https://qiita.com/Kontam/items/1fb92c5c29b639394aa1"
+  },
+  {
+    "likes_count": 309,
+    "title": "Spring での責務についてまず見てほしい一枚の絵",
+    "url": "https://qiita.com/yo1000/items/a6acbf5f454a7f53aef9"
+  },
+  {
+    "likes_count": 218,
+    "title": "【新人教育】OJTで先輩として意識している20個のこと",
+    "url": "https://qiita.com/shinkai_/items/c94791a1c4e0279417af"
+  },
+  {
+    "likes_count": 151,
+    "title": "効果的なコーディング練習問題の解かせ方",
+    "url": "https://qiita.com/yoichiwo7/items/f8f3e82fc8d97ccc19f0"
+  },
+  {
+    "likes_count": 133,
+    "title": "ゴールからの逆算　〜新人エンジニアとして意識して良かったこと〜",
+    "url": "https://qiita.com/y_n_comet/items/288e719c1134f84bf95e"
+  },
+  {
+    "likes_count": 123,
+    "title": "【暫定版】新人エンジニアのプルリクエスト入門",
+    "url": "https://qiita.com/yharada/items/4f5c288fa4c57f71ea1b"
+  },
+  {
+    "likes_count": 122,
+    "title": "新人データサイエンティストの野見くんが部内の月間MVPをとるまでに乗り越えたこと",
+    "url": "https://qiita.com/tohyama_eiji/items/96ecb15d4f7590247df8"
+  },
+  {
+    "likes_count": 119,
+    "title": "【新人教育 資料】第9章 SQLへの道 〜結合編〜",
+    "url": "https://qiita.com/devopsCoordinator/items/3ba154429973a4ddc9e0"
+  },
+  {
+    "likes_count": 106,
+    "title": "新卒エンジニアの育成に、\"多頻度マルチフィードバック\"という概念を導入してみた結果。",
+    "url": "https://qiita.com/gakuri/items/b694fa8571307c4debd7"
+  },
+  {
+    "likes_count": 99,
+    "title": "新人教育で参考になった書籍 5選",
+    "url": "https://qiita.com/SatouRyou/items/356a2241a47840f99571"
+  },
+  {
+    "likes_count": 98,
+    "title": "新人教材用に脆弱な Web アプリを開発した",
+    "url": "https://qiita.com/yo1000/items/34f825553f675cc7377d"
+  },
+  {
+    "likes_count": 94,
+    "title": "「早すぎる最適化は諸悪の根源」について",
+    "url": "https://qiita.com/shuetsu@github/items/95370b6c208901db3a5e"
+  },
+  {
+    "likes_count": 90,
+    "title": "[新人ITエンジニア伝えたい]自身の価値を高め続けていくための7つのポイント",
+    "url": "https://qiita.com/yukimura1227/items/482f1cacf304148166b2"
+  },
+  {
+    "likes_count": 89,
+    "title": "【若手向け】上司にウケる会社の目標設定例",
+    "url": "https://qiita.com/curryperformer-kato/items/23dc73ed1276cf1aafb7"
+  },
+  {
+    "likes_count": 82,
+    "title": " 初心者にネットワークを教えるとき",
+    "url": "https://qiita.com/masatsugumatsus/items/734a43cf114095f25fbb"
+  },
+  {
+    "likes_count": 76,
+    "title": "ビルドとデプロイとリリースの違いについて",
+    "url": "https://qiita.com/shimajiri/items/e3c1f4a70b5b4c8b25fd"
+  },
+  {
+    "likes_count": 74,
+    "title": "新人エンジニアの皆さんへ、先輩に相談する前にやるべきことと、上手な相談の方法",
+    "url": "https://qiita.com/zakuro9715/items/5bde95f992e7ddf2dc7f"
+  },
+  {
+    "likes_count": 69,
+    "title": "[Java]新人向けにJavaBeansの直列化やフィールド・プロパティの謎をPOJOとの違いを交えて解説",
+    "url": "https://qiita.com/ukitiyan/items/3b7f1ea7eb3d208ed5fe"
+  },
+  {
+    "likes_count": 68,
+    "title": "新人・若手SEがとっておくべき資格　- システム運用管理ver -",
+    "url": "https://qiita.com/umeee/items/c3b6045015575a28cf85"
+  },
+  {
+    "likes_count": 65,
+    "title": "新卒3年目が行なっている新人教育の取り組み",
+    "url": "https://qiita.com/SatouRyou/items/5cf9c99191df67552e95"
+  },
+  {
+    "likes_count": 64,
+    "title": "ノーヒントサーバ調査 (Linux編)",
+    "url": "https://qiita.com/t_nakayama0714/items/9348e215f172562974e6"
+  },
+  {
+    "likes_count": 63,
+    "title": "新人プログラマが現場に配属されてエラーに遭遇した時の正しい対応",
+    "url": "https://qiita.com/NagaokaKenichi/items/0064844f87f58f53d000"
+  },
+  {
+    "likes_count": 57,
+    "title": "プロジェクトでやったらいけないと思うこと",
+    "url": "https://qiita.com/sh-ogawa/items/5a8af0dc8e879b42dcf4"
+  },
+  {
+    "likes_count": 57,
+    "title": "ペアプロで教えた、Javaで流れるような処理を書くコツ",
+    "url": "https://qiita.com/ksakiyama134/items/4a1912ecc83200f62c58"
+  },
+  {
+    "likes_count": 56,
+    "title": "[Java]新人向けにjava.util.ArrayListで発生するConcurrentModificationExceptionについて解説",
+    "url": "https://qiita.com/ukitiyan/items/adec43ea77cb78169e80"
+  },
+  {
+    "likes_count": 54,
+    "title": "プログラム読めるけど書けない人へ　１０の心得",
+    "url": "https://qiita.com/Nekonecode/items/f6cdd25bbbab788c3f0c"
+  },
+  {
+    "likes_count": 49,
+    "title": "Go 社内勉強会 資料",
+    "url": "https://qiita.com/hayashier/items/65cd8c0592caebd5a61d"
+  },
+  {
+    "likes_count": 48,
+    "title": "プログラミングを挫折しないために必要な最重要能力は、『細分化』じゃないかと、実例から考える",
+    "url": "https://qiita.com/hirossyi73/items/7785cdd367c774da43df"
+  },
+  {
+    "likes_count": 43,
+    "title": "過去4年間新人プログラマの育成をしてみて最低限コレだけは出来るようになっておいた方が良いと思ったこと",
+    "url": "https://qiita.com/NagaokaKenichi/items/ead098da7d5f403de1d2"
+  },
+  {
+    "likes_count": 39,
+    "title": "ぼくのかんがえた さいきょうの新人研修",
+    "url": "https://qiita.com/aosho235/items/23625cdb340eaaeb5b94"
+  },
+  {
+    "likes_count": 37,
+    "title": " コピペプログラミングの本当のダメな理由",
+    "url": "https://qiita.com/NagaokaKenichi/items/e855b944f4b427a911e8"
+  },
+  {
+    "likes_count": 35,
+    "title": "SIerの若手開発エンジニア向け教育をどうすればよいか考える（その１）",
+    "url": "https://qiita.com/bonybeat/items/9c7a80cca9482493f07e"
+  },
+  {
+    "likes_count": 32,
+    "title": "忘れないうちに残しておく、初めてプログラムコードを読んだ日の気持ちとその日から",
+    "url": "https://qiita.com/toto_kit/items/f2119e138a988b32bd34"
+  },
+  {
+    "likes_count": 27,
+    "title": "新人プログラマーが意識すべき５つのこと",
+    "url": "https://qiita.com/nyao/items/f0e58f69735060f903ca"
+  },
+  {
+    "likes_count": 26,
+    "title": "何の才能もない若手が年収500万もらうためにやること",
+    "url": "https://qiita.com/takumi-nakamura/items/93c8a04d796802150cbd"
+  },
+  {
+    "likes_count": 26,
+    "title": "新人さんに教える時に気をつけてること",
+    "url": "https://qiita.com/YutakakINJO/items/f5f1043dfbc488a7f591"
+  },
+  {
+    "likes_count": 23,
+    "title": "新人プログラマがスピードタイプを目指した方がいい5つの理由",
+    "url": "https://qiita.com/ayies128/items/a2b8c831c9660eecaaea"
+  },
+  {
+    "likes_count": 22,
+    "title": "【新人教育 資料】第8章 SQLへの道 〜グループ編〜",
+    "url": "https://qiita.com/devopsCoordinator/items/f74228615982932c914b"
+  },
+  {
+    "likes_count": 21,
+    "title": "MacでApache+PHPを有効にする",
+    "url": "https://qiita.com/mazgi/items/42458878e75bf1abc1c4"
+  },
+  {
+    "likes_count": 19,
+    "title": "非エンジニアだった新人君を教育してみた記録",
+    "url": "https://qiita.com/uchi_rhyme/items/13586b529b4492b6e3fa"
+  },
+  {
+    "likes_count": 19,
+    "title": "Railsの新卒研修で役に立つもの一覧",
+    "url": "https://qiita.com/suzuki-mar/items/55411e6fdcef313771a8"
+  },
+  {
+    "likes_count": 19,
+    "title": "輪読会を1年間続けたので振り返る",
+    "url": "https://qiita.com/otsuky/items/bc84614fea6851d9be62"
+  },
+  {
+    "likes_count": 17,
+    "title": "新人エンジニア向け 処理フローに分解する手順",
+    "url": "https://qiita.com/Repy/items/76096ff843e4c042c467"
+  },
+  {
+    "likes_count": 16,
+    "title": "新人向けにJava関連の読書会をはじめた話",
+    "url": "https://qiita.com/ukitiyan/items/d5bac86dc641a8795259"
+  },
+  {
+    "likes_count": 16,
+    "title": "新人教育の際に気をつけたこと",
+    "url": "https://qiita.com/yu-croco/items/c41aa79a87fdbcf418fb"
+  },
+  {
+    "likes_count": 16,
+    "title": "エンジニア未経験者が、メンティとして意識して良かった３つの事",
+    "url": "https://qiita.com/sho-ito/items/ddc56e1de1df223bbbce"
+  },
+  {
+    "likes_count": 16,
+    "title": "業務内容のマニュアル化のすすめ〜弊社脆弱性診断チームの事例を添えて〜",
+    "url": "https://qiita.com/asami-H-Ishi/items/461365a2c94e10312f45"
+  },
+  {
+    "likes_count": 15,
+    "title": "AutoLayoutから学ぶ新人教育",
+    "url": "https://qiita.com/sora/items/c8ebbdd0dc998483963c"
+  },
+  {
+    "likes_count": 15,
+    "title": "新人教材用にテストのない FizzBuzz を書いた",
+    "url": "https://qiita.com/yo1000/items/8f2de26b456a604d7d70"
+  },
+  {
+    "likes_count": 15,
+    "title": "未経験中途採用でエンジニアになった自分の経験から、新人教育を考える。",
+    "url": "https://qiita.com/tkfmymnk84/items/17a449e76bbd41ce4718"
+  },
+  {
+    "likes_count": 15,
+    "title": "エンジニアこそ説明力を磨かないといけない",
+    "url": "https://qiita.com/masa08/items/3e9bf2dcea44db6b0874"
+  },
+  {
+    "likes_count": 15,
+    "title": "ググり方に見るエンジニアの個人間の認知方法の壁について",
+    "url": "https://qiita.com/koan_u/items/fef221cadc3f69596b02"
+  },
+  {
+    "likes_count": 15,
+    "title": "新卒エンジニアがWeb系の技術をゼロから学んだ話",
+    "url": "https://qiita.com/verdy89/items/adb6db7c80b095cb9063"
+  },
+  {
+    "likes_count": 14,
+    "title": "仮説・検証（139）新人(学生)を指導するよりも新人(学生)に指導してもらった方が効率的",
+    "url": "https://qiita.com/kaizen_nagoya/items/db993b1536055029f7c8"
+  },
+  {
+    "likes_count": 14,
+    "title": "【新人教育】プログラミングスキルを劇的に向上させる最強の方法「ペアプログラミング」のすすめ",
+    "url": "https://qiita.com/shinkai_/items/9bf2b060e7ec5ebd106c"
+  },
+  {
+    "likes_count": 13,
+    "title": "【エンジニア教材】MySQL編(1) WHERE句について (等号,不等号,BETWEEN,LIKE,IN,IS NULL)",
+    "url": "https://qiita.com/yamaguchi_takashi/items/d6dc3d7b8ece41b87b2c"
+  },
+  {
+    "likes_count": 13,
+    "title": "素敵なエンジニアになるためにインプットとアウトプットを繰り返す",
+    "url": "https://qiita.com/NagaokaKenichi/items/018f9a8790ac662bc58c"
+  },
+  {
+    "likes_count": 13,
+    "title": "テスタブルなコードをもうちょっと簡単に理解する",
+    "url": "https://qiita.com/oda-kazuki/items/3866da571f0cceeb1435"
+  },
+  {
+    "likes_count": 12,
+    "title": "新卒内定者向けにLinux基本操作を伝授したい",
+    "url": "https://qiita.com/daigosan/items/600802bb27f7c8a977de"
+  },
+  {
+    "likes_count": 12,
+    "title": "【若手向け】初心者にもできる！問題解決のための切り分け術",
+    "url": "https://qiita.com/alpha2048/items/008e41457caee021fbe3"
+  },
+  {
+    "likes_count": 11,
+    "title": "SIerの若手開発エンジニア向け教育をどうすればよいか考える（その２）",
+    "url": "https://qiita.com/bonybeat/items/d692c54eff40dc36964e"
+  },
+  {
+    "likes_count": 11,
+    "title": "手を動かしてプログラミングをする意味【新人向け】 ",
+    "url": "https://qiita.com/matsugaknight/items/327e8958d23eb12fd578"
+  },
+  {
+    "likes_count": 10,
+    "title": "【エンジニア教材】MySQL編(4) GROUP BY,HAVINGについて",
+    "url": "https://qiita.com/yamaguchi_takashi/items/7e53336d323672fc8031"
+  },
+  {
+    "likes_count": 10,
+    "title": "インフラのUnitテスト観点について",
+    "url": "https://qiita.com/yoshiya64/items/22792cbcf6e8eb0010a5"
+  },
+  {
+    "likes_count": 10,
+    "title": "初めて後輩の面倒をみる先輩１年生へ",
+    "url": "https://qiita.com/mtanabe/items/c66fc6cdd5fef6b4709c"
+  },
+  {
+    "likes_count": 10,
+    "title": "\"経験者\"として新卒入社した全ての新人プログラマの皆様へ",
+    "url": "https://qiita.com/kyopkb/items/c83144d617b39c08943a"
+  },
+  {
+    "likes_count": 9,
+    "title": "学生が部活やサークルで後輩にプログラミングとか開発について教える時の手順など",
+    "url": "https://qiita.com/y-temp4/items/4aca74963d3b6db2338a"
+  },
+  {
+    "likes_count": 9,
+    "title": "Python のはじめ方",
+    "url": "https://qiita.com/tk_wada/items/7efc903c2dd26167a0ee"
+  },
+  {
+    "likes_count": 9,
+    "title": "2年目くらいのエンジニアに向けた \"プロのエンジニアとは？\" 心がけ編",
+    "url": "https://qiita.com/567000/items/6383d2134ca47ad9c6e7"
+  },
+  {
+    "likes_count": 9,
+    "title": "「ググレカス」と思う前に、この記事を読めカス。　　　",
+    "url": "https://qiita.com/H40831/items/a345d9c50795a7645e2d"
+  },
+  {
+    "likes_count": 9,
+    "title": "2019年度 新人研修のレビュー指摘事項",
+    "url": "https://qiita.com/DJKem/items/f0f11608f59762de3151"
+  },
+  {
+    "likes_count": 9,
+    "title": "AWS 認定 クラウドプラクティショナーサンプル問題を解説します",
+    "url": "https://qiita.com/hirosys-biz/items/ccdc73370eb20a087b7c"
+  },
+  {
+    "likes_count": 9,
+    "title": "AWS 認定 ソリューションアーキテクトアソシエイトサンプル問題を解説します",
+    "url": "https://qiita.com/hirosys-biz/items/ca636bd9fa8d4e0a5966"
+  },
+  {
+    "likes_count": 8,
+    "title": "Gitを知りたいすべてのエンジニアに捧ぐ。。。",
+    "url": "https://qiita.com/ren0826jam/items/cf766a6fd43049b3cff4"
+  },
+  {
+    "likes_count": 7,
+    "title": "「若手がモチベーション低いんだよね」と愚痴る先輩(きっと未来の私)へ",
+    "url": "https://qiita.com/ayataka555/items/6be8a9bd56c3d7f385d0"
+  },
+  {
+    "likes_count": 7,
+    "title": "新人との振り返りに合うのはYWT",
+    "url": "https://qiita.com/lunar_sword3/items/74c546901102b7757901"
+  },
+  {
+    "likes_count": 7,
+    "title": "SIerの若手開発エンジニア向け教育をどうすればよいか考える（その３）",
+    "url": "https://qiita.com/bonybeat/items/a1c5ac9dcc9749c2e923"
+  },
+  {
+    "likes_count": 7,
+    "title": "なんでGoogle検索のやり方こみで教えないの？新人エンジニア教育",
+    "url": "https://qiita.com/YumaInaura/items/52549c1454b9143e340a"
+  },
+  {
+    "likes_count": 7,
+    "title": "新入社員でIT系の企業で仕事を始めた頃の自分を振り返る",
+    "url": "https://qiita.com/miriwo/items/eb04aecfc3eb450734e8"
+  },
+  {
+    "likes_count": 7,
+    "title": "AWS 認定 SysOps アドミニストレーターアソシエイトサンプル問題を解説します",
+    "url": "https://qiita.com/hirosys-biz/items/747a62c9db265f8e1cf5"
+  },
+  {
+    "likes_count": 6,
+    "title": "社内で基本情報の勉強会を行った話 1年目(27年度秋季)",
+    "url": "https://qiita.com/SatouRyou/items/5bfaceb84c4109ea5e9e"
+  },
+  {
+    "likes_count": 6,
+    "title": "2017新人教育スケジュール（機械学習関連）",
+    "url": "https://qiita.com/msrks/items/1658e3f2c09ac0908d23"
+  },
+  {
+    "likes_count": 6,
+    "title": "仮説・検証（52）プログラミング言語教育のXYZ",
+    "url": "https://qiita.com/kaizen_nagoya/items/1950c5810fb5c0b07be4"
+  },
+  {
+    "likes_count": 6,
+    "title": "PC嫌いな文系エンジニアがプログラミング講師を経てプログラミング教育(学習)に必要だと思った6つのこと",
+    "url": "https://qiita.com/K_Oni/items/cb336658cf45103dcb12"
+  },
+  {
+    "likes_count": 6,
+    "title": "プログラミング未経験でIT企業に就職し、1年間でやってきたこと",
+    "url": "https://qiita.com/kouki677/items/ab185e4c34ef255e2cef"
+  },
+  {
+    "likes_count": 5,
+    "title": "DBD: Can't load driver file apr_dbd_mysql.so なケースを通して学ぶ、lddとldconfigの使い方",
+    "url": "https://qiita.com/nntsugu/items/fc2962f1ea24665ceafe"
+  },
+  {
+    "likes_count": 5,
+    "title": "部下から見たダメな上司とは？",
+    "url": "https://qiita.com/10korokoro/items/74babd3877155c4c6f8d"
+  },
+  {
+    "likes_count": 5,
+    "title": "会議が長いし議事録が役に立たないのでGoogleDocsを使うことで改善しようとしている話",
+    "url": "https://qiita.com/yamotuki/items/63ecab23f631715e74bc"
+  },
+  {
+    "likes_count": 5,
+    "title": "若手プログラマーが意識すべき５つのこと",
+    "url": "https://qiita.com/nyao/items/1a855a56b02a0039ea01"
+  },
+  {
+    "likes_count": 5,
+    "title": "技術書典6 お34 プロジェクトマネージャ保護者会のご紹介",
+    "url": "https://qiita.com/viva_tweet_x/items/d9f4d447b051d11ad4c7"
+  },
+  {
+    "likes_count": 5,
+    "title": "~ これからのキャリアの話をしよう ~",
+    "url": "https://qiita.com/upaldus/items/3a4cbda15ac9a92c3162"
+  },
+  {
+    "likes_count": 5,
+    "title": "Linux勉強会 第4回：ファイル操作とディレクトリ操作",
+    "url": "https://qiita.com/mass-min/items/89d69378f8c91e4895c5"
+  },
+  {
+    "likes_count": 5,
+    "title": "何がわからないのかわからないのではありますまいか",
+    "url": "https://qiita.com/e99h2121/items/84f9b97df07e3f943176"
+  },
+  {
+    "likes_count": 4,
+    "title": "【エンジニア教材】MySQL編(2) ソートについて (ORDER BY,LIMIT)",
+    "url": "https://qiita.com/yamaguchi_takashi/items/e12c89214ec3f7f4a9b6"
+  },
+  {
+    "likes_count": 4,
+    "title": "assertの引数をfalse固定にするというテクニック",
+    "url": "https://qiita.com/yskszk/items/ca98ec551886245182e3"
+  },
+  {
+    "likes_count": 4,
+    "title": "初心者用プログラミング言語「PG0」のススメ",
+    "url": "https://qiita.com/nakka_/items/adfe04d701640a72015d"
+  },
+  {
+    "likes_count": 4,
+    "title": "新人研修における fun と fun",
+    "url": "https://qiita.com/sezemi_seplus/items/31cd169f72eb269dfc04"
+  },
+  {
+    "likes_count": 4,
+    "title": "2019年にレビューアとして改善したいと思う、たった1つのこと",
+    "url": "https://qiita.com/y-some/items/9f68352c4abde8064300"
+  },
+  {
+    "likes_count": 4,
+    "title": "「何が分からないか分からない」の例え話と対処法",
+    "url": "https://qiita.com/Ringa_hyj/items/c7d804e10c4050c82617"
+  },
+  {
+    "likes_count": 4,
+    "title": "Linux勉強会 第5回： ディレクトリ操作とリンクと i ノード  ",
+    "url": "https://qiita.com/unadesuga/items/c5cc9d658423c07dd7d3"
+  },
+  {
+    "likes_count": 3,
+    "title": "2年目が思うタスク管理方法",
+    "url": "https://qiita.com/chineneita/items/bf50e052a73fd6122b4a"
+  },
+  {
+    "likes_count": 3,
+    "title": "新人のコードレビュー時に意識している事 〜悲しみの連鎖を断ち切りたい〜",
+    "url": "https://qiita.com/vedokoy/items/4f9982943838c647d96e"
+  },
+  {
+    "likes_count": 3,
+    "title": "新入社員にむけてのオブジェクト指向入門〜その2：カプセル化〜",
+    "url": "https://qiita.com/oda-kazuki/items/663f87cac4d051ab27c0"
+  },
+  {
+    "likes_count": 3,
+    "title": "ママ社員が新人教育でとり組んだこと～関係構築にカードゲームが効いた話～",
+    "url": "https://qiita.com/koiwai/items/81867751e4cc159548c3"
+  },
+  {
+    "likes_count": 3,
+    "title": "「推測するな、計測せよ」を推測するな",
+    "url": "https://qiita.com/e99h2121/items/e8f899756b21b0414835"
+  },
+  {
+    "likes_count": 2,
+    "title": "【エンジニア教材】MySQL編(3) 集合関数について (SUM,AVG,MAX,MIN,COUNT,GROUP_CONCAT)",
+    "url": "https://qiita.com/yamaguchi_takashi/items/c8e88d889f6338931be8"
+  },
+  {
+    "likes_count": 2,
+    "title": "初心者向けプログラミング解説書紹介",
+    "url": "https://qiita.com/tsuyuri104/items/16ec6b9b8b29bc9ad77d"
+  },
+  {
+    "likes_count": 2,
+    "title": "エンジニアの新人教育はスパルタ？甘やかし？必要なのは適切なレベル設定の「ストレッチ・背伸び経験」 ",
+    "url": "https://qiita.com/YumaInaura/items/f7b00a3de4a33741191b"
+  },
+  {
+    "likes_count": 2,
+    "title": "JavaScript よく使うもの まとめ",
+    "url": "https://qiita.com/syukan3/items/77f23515394c1ed75f54"
+  },
+  {
+    "likes_count": 2,
+    "title": "オブジェクト指向とは",
+    "url": "https://qiita.com/D4ik1/items/fabaf4269ce57eb775ad"
+  },
+  {
+    "likes_count": 2,
+    "title": "俺なら新人エンジニアに最初に教えるのはMarkdown！",
+    "url": "https://qiita.com/gungungggun/items/df6661b3bc1768a00073"
+  },
+  {
+    "likes_count": 2,
+    "title": "令和の新人エンジニアにプログラム言語を教えるようになるついでに、若い人にどう伝えるべきかをノベライズしながら考えた。",
+    "url": "https://qiita.com/e-a-st/items/fac5f9feb53aa9a76990"
+  },
+  {
+    "likes_count": 2,
+    "title": "2019年新卒から2020年新卒へ、IT企業の新人研修でこれが重要！",
+    "url": "https://qiita.com/skgc/items/77965925132b87d2768a"
+  },
+  {
+    "likes_count": 2,
+    "title": "解いて終わりにしない、プログラミング初学者にオススメしたい練習問題を使った基礎トレ。",
+    "url": "https://qiita.com/kenken21/items/21c6f08ce39509ec2e8a"
+  },
+  {
+    "likes_count": 2,
+    "title": "Junit5（spek）+mockk+jacoco+bitriseを始めるのは簡単だったよという話（割と新人向け）",
+    "url": "https://qiita.com/tomotakasg/items/33e4fc109f9c218eb2c5"
+  },
+  {
+    "likes_count": 1,
+    "title": "2016年 社内で貸し出した書籍まとめ",
+    "url": "https://qiita.com/SatouRyou/items/bbfb7b83239750e30175"
+  },
+  {
+    "likes_count": 1,
+    "title": "PG0でプログラミング研修をしてみた",
+    "url": "https://qiita.com/nakka_/items/782dd01af8ab7320a107"
+  },
+  {
+    "likes_count": 1,
+    "title": "新技術をチームに浸透させるためにやってること",
+    "url": "https://qiita.com/uchimon/items/a8d330a0c911e6610ace"
+  },
+  {
+    "likes_count": 1,
+    "title": "[Visual Studio]作業速度向上ショートカット ",
+    "url": "https://qiita.com/futakimu/items/805c7718b4df7206f240"
+  },
+  {
+    "likes_count": 1,
+    "title": "新人研修で必要なこと",
+    "url": "https://qiita.com/nanaki11/items/d0f80924e34d038d9170"
+  },
+  {
+    "likes_count": 1,
+    "title": "新入生教育について",
+    "url": "https://qiita.com/kodaimai/items/23c0f3305c4a0c0ed792"
+  },
+  {
+    "likes_count": 1,
+    "title": "できるリーダー(テックリード)になるためのトレーニング法④",
+    "url": "https://qiita.com/umerin/items/ef5e841d7361002f9759"
+  },
+  {
+    "likes_count": 1,
+    "title": "新人君向けの課題（うるう年判定プログラム）",
+    "url": "https://qiita.com/ericcho/items/afcf0b3b14809990069d"
+  },
+  {
+    "likes_count": 1,
+    "title": "一旦、新人に困ったらすぐ質問させてみたらコントみたいになった。ついでに、質問の質が上がるヒントも見つかった",
+    "url": "https://qiita.com/nonnono1102/items/1bdde4c80c750d986cd7"
+  },
+  {
+    "likes_count": 1,
+    "title": "機械学習の研修にディベートを盛り込んだら相性が良さそうだった件",
+    "url": "https://qiita.com/calderarie/items/accbdbc879dada9e1b40"
+  },
+  {
+    "likes_count": 1,
+    "title": "Gitで急いで戻したいならmerge --no-ffを使う",
+    "url": "https://qiita.com/mrk461/items/81c286491546c17e9a75"
+  },
+  {
+    "likes_count": 1,
+    "title": "年齢の commit graph 作成スクリプト（git merge --no-ff の説明用）",
+    "url": "https://qiita.com/mrk461/items/e6b6ac6614656a355016"
+  },
+  {
+    "likes_count": 1,
+    "title": "Java SE の基礎を IT 講師ががんばって親切に解説する連載の目次",
+    "url": "https://qiita.com/HrkPPOI/items/98707436c5bfea3c74e2"
+  },
+  {
+    "likes_count": 1,
+    "title": "JavaScript Primer「オブジェクト」\b#深いコピー（deep copy）の例題を理解する",
+    "url": "https://qiita.com/kakudaisuke/items/00c8cadbaa498500fe85"
+  },
+  {
+    "likes_count": 1,
+    "title": "バリデーションは大事だって話なんだよねぇ！",
+    "url": "https://qiita.com/ren0826jam/items/ae67a6278015adbdfdf9"
+  },
+  {
+    "likes_count": 1,
+    "title": "【若手社会人向け】社会人基礎力解説",
+    "url": "https://qiita.com/harunobu919/items/8376f9b437559053aa53"
+  },
+  {
+    "likes_count": 0,
+    "title": "PG0がプログラミング研修に向いている理由",
+    "url": "https://qiita.com/nakka_/items/16c99e3279c87a70fafc"
+  },
+  {
+    "likes_count": 0,
+    "title": "オブジェクト指向の中身をキーワード別に分けてみる",
+    "url": "https://qiita.com/D4ik1/items/18d55ab1e6e954d3dba2"
+  },
+  {
+    "likes_count": 0,
+    "title": "テスト技法を選択する際の様々な要素（基準）",
+    "url": "https://qiita.com/NagaokaKenichi/items/cfd921c3ff82b55c50ac"
+  },
+  {
+    "likes_count": 0,
+    "title": "新人君向けの課題（ROT13）",
+    "url": "https://qiita.com/ericcho/items/500a8ae60aa2f1e2691b"
+  },
+  {
+    "likes_count": 0,
+    "title": "[Rails] 可読性を上げるための第1歩～変数宣言の注意点～",
+    "url": "https://qiita.com/siruku6/items/b111c04c796d48c834d8"
+  },
+  {
+    "likes_count": 0,
+    "title": "【新人向け】JUnitの紹介",
+    "url": "https://qiita.com/impepc/items/69794f50b1d80b11492f"
+  },
+  {
+    "likes_count": 0,
+    "title": "リモートワークでの OJT の進め方",
+    "url": "https://qiita.com/yasudanaoya/items/c495d45bc775c9b91c32"
+  },
+  {
+    "likes_count": 0,
+    "title": "JShell でプログラミングへの第一歩を始めよう！（JShell, REPL）",
+    "url": "https://qiita.com/HrkPPOI/items/d345f540e38e356249ee"
+  },
+  {
+    "likes_count": 0,
+    "title": "JShell で、Javaを電卓として使おう（式、値、演算子）",
+    "url": "https://qiita.com/HrkPPOI/items/127652196cb1f08df242"
+  },
+  {
+    "likes_count": 0,
+    "title": "新人エンジニアを育成するときの人生論",
+    "url": "https://qiita.com/_Nanagin/items/b13cbc92a3fe015ec90c"
+  },
+  {
+    "likes_count": 0,
+    "title": "【初心者向け】ActiveDirectory とは？",
+    "url": "https://qiita.com/u-bayashi/items/57d76760f60617a938ef"
+  }
+]
