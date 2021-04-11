@@ -32,7 +32,7 @@ size = len(json_load)
 fw = open(filename_out,'w')
     
 for x in range(0, size):
-  title = json_load[x]['title']     # markdownで()があると正しく表示されないため、{}に置き換え
+  title = json_load[x]['title']     # markdownで<>`があると正しく表示されないため、{}に置き換え
   title = title.replace('<', '{')
   title = title.replace('>', '}')
   title = title.replace("'", "-")
