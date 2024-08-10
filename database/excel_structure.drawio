@@ -70,13 +70,13 @@
         <mxCell id="VR2aySl7EQt6CaS8vKHN-20" value="B2&lt;div&gt;2,2&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="570" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VR2aySl7EQt6CaS8vKHN-21" value="A" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="VR2aySl7EQt6CaS8vKHN-21" value="A(1)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="450" y="500" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VR2aySl7EQt6CaS8vKHN-22" value="B" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="VR2aySl7EQt6CaS8vKHN-22" value="B(2)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="530" y="500" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VR2aySl7EQt6CaS8vKHN-23" value="C" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="VR2aySl7EQt6CaS8vKHN-23" value="C(3)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="610" y="500" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VR2aySl7EQt6CaS8vKHN-24" value="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
