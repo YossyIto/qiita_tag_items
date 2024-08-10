@@ -49,7 +49,7 @@
             <mxPoint x="600" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iXndVPD-ayWWBFSMLgRw-13" value="手作業" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="iXndVPD-ayWWBFSMLgRw-13" value="Pythonプログラム" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="120" y="320" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
