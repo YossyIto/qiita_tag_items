@@ -4,26 +4,20 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="VR2aySl7EQt6CaS8vKHN-1" value="ファイル" style="shape=card;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="120" width="160" height="80" as="geometry" />
+        <mxCell id="VR2aySl7EQt6CaS8vKHN-1" value="エクセルファイル&lt;div&gt;（ストレージ上）&lt;/div&gt;" style="shape=card;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="250" y="120" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="VR2aySl7EQt6CaS8vKHN-2" value="ワークブック&lt;div&gt;(Workbook)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VR2aySl7EQt6CaS8vKHN-2" value="ワークブック&lt;div&gt;(Workbook)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="80" y="280" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="VR2aySl7EQt6CaS8vKHN-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VR2aySl7EQt6CaS8vKHN-1" target="VR2aySl7EQt6CaS8vKHN-2">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="480" as="sourcePoint" />
-            <mxPoint x="440" y="430" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="VR2aySl7EQt6CaS8vKHN-4" value="ワークシート&lt;div&gt;(Worksheet)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VR2aySl7EQt6CaS8vKHN-4" value="ワークシート&lt;div&gt;(Worksheet)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="80" y="440" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="VR2aySl7EQt6CaS8vKHN-5" value="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="VR2aySl7EQt6CaS8vKHN-5" value="Workbook" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="160" y="200" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VR2aySl7EQt6CaS8vKHN-6" value="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="160" y="250" width="60" height="30" as="geometry" />
+        <mxCell id="VR2aySl7EQt6CaS8vKHN-6" value="load&lt;div&gt;save/close&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="200" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VR2aySl7EQt6CaS8vKHN-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -37,7 +31,7 @@
         <mxCell id="VR2aySl7EQt6CaS8vKHN-9" value="n" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="160" y="410" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VR2aySl7EQt6CaS8vKHN-10" value="&lt;div&gt;セル&lt;/div&gt;&lt;div&gt;(Cell)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VR2aySl7EQt6CaS8vKHN-10" value="&lt;div&gt;セル&lt;/div&gt;&lt;div&gt;(Cell)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="80" y="600" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="VR2aySl7EQt6CaS8vKHN-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
@@ -89,12 +83,12 @@
           <mxGeometry x="440" y="460" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VR2aySl7EQt6CaS8vKHN-28" value="row&lt;div&gt;(x)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="320" y="530" width="50" height="120" as="geometry" />
+          <mxGeometry x="330" y="530" width="50" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="VR2aySl7EQt6CaS8vKHN-30" value="open&lt;div&gt;(read)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VR2aySl7EQt6CaS8vKHN-30" value="&lt;div&gt;Workbook&lt;/div&gt;&lt;div&gt;(load)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="290" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VR2aySl7EQt6CaS8vKHN-31" value="oparate" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VR2aySl7EQt6CaS8vKHN-31" value="operate" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VR2aySl7EQt6CaS8vKHN-32" value="&lt;div&gt;save/&lt;/div&gt;close" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -109,8 +103,26 @@
             <mxPoint x="450" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VR2aySl7EQt6CaS8vKHN-36" value="openpyxlでのexcelデータ構造" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="VR2aySl7EQt6CaS8vKHN-36" value="OpenPyXlで扱うexcelデータ構造" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="60" y="80" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VR2aySl7EQt6CaS8vKHN-37" value="RAM" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="30" y="120" width="40" height="560" as="geometry" />
+        </mxCell>
+        <mxCell id="VR2aySl7EQt6CaS8vKHN-38" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VR2aySl7EQt6CaS8vKHN-5" target="VR2aySl7EQt6CaS8vKHN-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="210" as="sourcePoint" />
+            <mxPoint x="170" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VR2aySl7EQt6CaS8vKHN-39" value="新規作成" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="80" y="120" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VR2aySl7EQt6CaS8vKHN-40" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.534;exitY=-0.006;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="VR2aySl7EQt6CaS8vKHN-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="250" as="sourcePoint" />
+            <mxPoint x="330" y="200" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
